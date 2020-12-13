@@ -1,4 +1,4 @@
-package com.example.myfirstapp;
+package br.com.progiv.welcome;
 
 import androidx.appcompat.app.AppCompatActivity;
 
